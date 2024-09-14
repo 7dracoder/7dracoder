@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3XktvPM](https://bit.ly/3XktvPM)
 
-- ⚡ Fun fact **I am not a robot!**
+- ⚡ Fun fact **- I am not a robot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
