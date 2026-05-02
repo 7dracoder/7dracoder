@@ -6,7 +6,7 @@
 - 🔭 Currently working on edge-native AI, multi-agent LLM systems, and computer vision
 - 📄 Resume & portfolio: [tanmaysahu.co](https://tanmaysahu.co)
 - 📫 Reach me at **sahutanmay@hotmail.com**
-- 🏆 Won **Most Secure Project** at NVIDIA Spark Hackathon (Pensar & NVIDIA) for MetaNemo
+- 🏆 Won NVIDIA Spark Hackathon (Pensar & NVIDIA) for [MetaNemo](https://github.com/7dracoder/metanemo)
 - ⚡ Fun fact - I am not a robot (probably)
 
 ---
