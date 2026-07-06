@@ -21,7 +21,6 @@
 </tr>
 <tr>
 <td>LinkedIn</td>
-<td>GitHub</td>
 <td>Instagram</td>
 <td>Medium</td>
 </tr>
