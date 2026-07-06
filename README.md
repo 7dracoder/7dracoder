@@ -16,7 +16,6 @@
 <table>
 <tr>
 <td><a href="https://linkedin.com/in/sahu-tanmay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a></td>
-<td><a href="https://github.com/7dracoder" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/></a></td>
 <td><a href="https://instagram.com/_10mae" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a></td>
 <td><a href="https://medium.com/@tanmaysahu3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/></a></td>
 </tr>
